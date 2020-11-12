@@ -1,3 +1,4 @@
+<p align="center">
 ### I'd rather be in the mountains, but programming is cool too
 ![mountains](https://images.hankchristensen.com/blogExtras/OwensValley.jpg)
 
