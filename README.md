@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![mail](https://latex.codecogs.com/gif.latex?\fbox{Email})](mailto:wyattsjordan@gamil.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![pitt](https://latex.codecogs.com/gif.latex?\fbox{i})](https://www.google.com/searchq=how+many+bridges+are+in+the+city+of+pittsburgh)
+[![pitt](https://latex.codecogs.com/gif.latex?\fbox{Pitt})](https://www.google.com/searchq=how+many+bridges+are+in+the+city+of+pittsburgh)
 
 
 
