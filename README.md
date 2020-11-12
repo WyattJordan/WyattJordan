@@ -7,9 +7,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![resume](https://latex.codecogs.com/gif.latex?\fbox{Resume})](https://wyattjordan.github.io/resume/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![mail](https://latex.codecogs.com/gif.latex?\fbox{Email})](wyattsjordan@gamil.com)
+[![mail](https://latex.codecogs.com/gif.latex?\fbox{Email})](mailto:wyattsjordan@gamil.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![pitt](https://latex.codecogs.com/gif.latex?\fbox{Pittsburgh})](https://www.google.com/searchq=how+many+bridges+are+in+the+city+of+pittsburgh&rlz=1C1GCEU_enUS821US821&oq=how+many+bridge&aqs=chrome.1.0i20i263i457j0j69i57j0l5.3272j0j7&sourceid=chrome&ie=UTF-8)
+[![pitt](https://latex.codecogs.com/gif.latex?\fbox{Pittsburgh})](https://www.google.com/searchq=how+many+bridges+are+in+the+city+of+pittsburgh)
 
 
 
