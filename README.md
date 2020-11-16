@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![linkedin](https://latex.codecogs.com/gif.latex?\fbox{Linkedin})](https://www.linkedin.com/in/wyatt-jordan-87188849/) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![resume](https://latex.codecogs.com/gif.latex?\fbox{Resume})](https://docs.google.com/viewerng/viewer?url=https://wyattjordan.github.io/resume/)
+[![resume](https://latex.codecogs.com/gif.latex?\fbox{Resume})](https://wyattjordan.github.io/resume/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![mail](https://latex.codecogs.com/gif.latex?\fbox{Email})](mailto:wyattsjordan@gamil.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
