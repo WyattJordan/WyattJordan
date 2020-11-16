@@ -5,13 +5,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![linkedin](https://latex.codecogs.com/gif.latex?\fbox{Linkedin})](https://www.linkedin.com/in/wyatt-jordan-87188849/) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![resume](https://latex.codecogs.com/gif.latex?\fbox{Resume})](https://docs.google.com/viewerng/viewer?url=https://github.com/WyattJordan/resume/raw/main/Wyatt_Jordan_Resume_Github.pdf)
+[![resume](https://latex.codecogs.com/gif.latex?\fbox{Resume})](https://docs.google.com/viewerng/viewer?url=https://wyattjordan.github.io/resume/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![mail](https://latex.codecogs.com/gif.latex?\fbox{Email})](mailto:wyattsjordan@gamil.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![pitt](https://latex.codecogs.com/gif.latex?\fbox{Pitt})](https://www.google.com/search?q=how+many+bridges+are+in+the+city+of+pittsburgh)
 
-
+<!-- https://github.com/WyattJordan/resume/raw/main/Wyatt_Jordan_Resume_Github.pdf -->
 
 <!--
 **WyattJordan/WyattJordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
